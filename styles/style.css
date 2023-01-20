@@ -1,0 +1,22 @@
+.bannerImage1{
+    background-image: url(../image/carousel/1.jpg);
+    height: 100vh;
+    overflow: hidden;
+}
+.bannerImage2{
+    background-image: url(../image/carousel/2.jpg);
+     height: 100vh;
+     overflow: hidden;
+}
+.bannerImage3{
+    background-image: url(../image/carousel/3.jpg);
+    height: 100vh;
+    overflow: hidden;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.clientImage{
+    width: 160px;
+}
